@@ -1,11 +1,7 @@
-# Quantifying-Authorship-Biases-Using-Conditional-Probability-Engines
-
----
-
 # Quantifying Authorship Biases: Using Conditional Probability Engines to Distinguish AI-Generated Text from Human Discourse
 
-# Author: Isaac Oboh Yamoah
-# Affiliation: Stanford University: Probability for AI and Code in Place
+Author: Isaac Oboh Yamoah
+Affiliation: Stanford University: Probability for AI and Code in Place
 
 ## Abstract
 

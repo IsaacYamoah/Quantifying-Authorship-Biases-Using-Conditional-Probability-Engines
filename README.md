@@ -2,7 +2,7 @@
 
 Author: Isaac Oboh Yamoah
 
-Affiliation: Stanford University: Probability for AI and Code in Place
+Affiliation: Stanford University: Probability for AI and Code in Place X
 
 ## Abstract
 

@@ -4,6 +4,8 @@ Author: Isaac Oboh Yamoah
 
 Affiliation: Stanford University: Probability for AI and Code in Place X
 
+https://pai.stanford.edu/pai/share/GP1OmGVx99gDO0DyG1bL
+
 ## Abstract
 
 As Large Language Models (LLMs) increasingly permeate digital communication, distinguishing machine-generated content from human writing has become a critical challenge across computational linguistics and cybersecurity. This paper explores the "Word Detective" framework, a data-driven application that models LLMs as conditional probability engines. By evaluating statistical distributions and token usage across large text corpora (such as the Reddit ELI5 dataset, medical, financial, and wiki domains), we quantify how specific lexical markers—such as the over-reliance on terms like "super"—serve as profound statistical "tells" or fingerprints for AI authorship. We examine the mathematical formulation of conditional probability in token prediction, compare raw probability versus ratio-based visualizations, and discuss the implications for automated authorship attribution tools.

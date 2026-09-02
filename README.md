@@ -1,12 +1,11 @@
 # Quantifying-Authorship-Biases-Using-Conditional-Probability-Engines
 
-Got it! Since you want the research paper based on the work we just did together in this chat, let's write a comprehensive, publication-ready research paper on our **Word Detective** project—focusing on conditional probability engines and authorship classification between AI-generated and human-written text.
-
-Here is your tailored research paper:
-
 ---
 
 # Quantifying Authorship Biases: Using Conditional Probability Engines to Distinguish AI-Generated Text from Human Discourse
+
+# Author: Isaac Oboh Yamoah
+# Affiliation: Stanford University: Probability for AI and Code in Place
 
 ## Abstract
 
